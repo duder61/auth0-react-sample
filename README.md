@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+This is a clone of the sample app provided by Okta in their Github. It is meant to allow some local changes without impacting their codebase.
+
 # auth0-react-sample
 Sample SPA app for Auth0 integration
 =======
